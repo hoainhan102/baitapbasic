@@ -1,0 +1,15 @@
+C:\GIT_FILE\Baitapbasic\bin\Debug\net6.0\Baitapbasic.exe
+C:\GIT_FILE\Baitapbasic\bin\Debug\net6.0\Baitapbasic.deps.json
+C:\GIT_FILE\Baitapbasic\bin\Debug\net6.0\Baitapbasic.runtimeconfig.json
+C:\GIT_FILE\Baitapbasic\bin\Debug\net6.0\Baitapbasic.dll
+C:\GIT_FILE\Baitapbasic\bin\Debug\net6.0\Baitapbasic.pdb
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.csproj.AssemblyReference.cache
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.AssemblyInfoInputs.cache
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.AssemblyInfo.cs
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.csproj.CoreCompileInputs.cache
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.dll
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\refint\Baitapbasic.dll
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.pdb
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\Baitapbasic.genruntimeconfig.cache
+C:\GIT_FILE\Baitapbasic\obj\Debug\net6.0\ref\Baitapbasic.dll
